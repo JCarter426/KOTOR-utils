@@ -1,0 +1,7 @@
+# Excluded folders
+_*/
+
+# NWScript
+/source/*.bat
+/source/*.ncs
+/source/nwnnsscomp.exe
